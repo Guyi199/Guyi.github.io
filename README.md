@@ -149,24 +149,24 @@ table,tr,td{
 <table class="tbl" >
 <tr bgcolor="#F0FFFF">
 <td>Underweigth:<br />0-18.5</td>
-<td>A person insufficient weight, so they may need to put on some weight.They should asked a doctor or dietitian for advice.
+<td>A person insufficient weight, so they may need to put on some weight.
 </td>
 </tr>
 <tr bgcolor="#CCFFCC">
 <td>Normalweight: 18.5 - 24.9</td>
-<td>A person has a healthy weight for their height.By maintaining a healthy weight,they can lower their risk of developing serious health problems. </td>
+<td>A person has a healthy weight for their height.</td>
 </tr>
 <tr bgcolor="#CCCCFF">
 <td>Overweight:<br /> 25 - 29.9 </td>
-<td>A person is sightly overweight. A doctor may advise them to lose some weight for health reasons. They should talk with a doctor or dietitian for advice.</td>
+<td>A person is sightly overweight. A doctor may advise them to lose some weight for health reasons.</td>
 </tr>
 <tr bgcolor="#FFFFCC">
 <td>Obese: <br />30 - 35</td>
-<td>A person has obesity.Their health may be at risk if they do not lose weight.They should talk with a doctor or dietitian for advice.</td>
+<td>A person has obesity.Their health may be at risk if they do not lose weight.</td>
 </tr>
 <tr bgcolor="#FFCCFF">
 <td>Extremely:<br /> over 35 </td>
-<td>Your blood pressure,blood sugar,cholesterol,and body fat may be at unhealthy levels.A doctor can help you manage it with changes in diet and exercise as well as medicine.</td>
+<td>Your blood pressure,blood sugar,cholesterol,and body fat may be at unhealthy levels.</td>
 </tr>
 </table>
 </div>
