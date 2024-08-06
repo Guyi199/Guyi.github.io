@@ -27,13 +27,13 @@ box-shadow:1px 1px 20px #ee5253;
 }
 
 .status2{
-	width:5000px;
+	width: 500px;
 	position:absolute;
 	top:33%;
 	right:4%;
 
-	padding:100px;
-	height:55%;
+	padding:20px;
+	height:33%;
 	}
 	
 
@@ -152,22 +152,7 @@ table,tr,td{
 <td>A person insufficient weight, so they may need to put on some weight.
 </td>
 </tr>
-<tr bgcolor="#CCFFCC">
-<td>Normalweight: 18.5 - 24.9</td>
-<td>A person has a healthy weight for their height.</td>
-</tr>
-<tr bgcolor="#CCCCFF">
-<td>Overweight:<br /> 25 - 29.9 </td>
-<td>A person is sightly overweight. A doctor may advise them to lose some weight for health reasons.</td>
-</tr>
-<tr bgcolor="#FFFFCC">
-<td>Obese: <br />30 - 35</td>
-<td>A person has obesity.Their health may be at risk if they do not lose weight.</td>
-</tr>
-<tr bgcolor="#FFCCFF">
-<td>Extremely:<br /> over 35 </td>
-<td>Your blood pressure,blood sugar,cholesterol,and body fat may be at unhealthy levels.</td>
-</tr>
+
 </table>
 </div>
 
