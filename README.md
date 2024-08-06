@@ -27,7 +27,7 @@ box-shadow:1px 1px 20px #ee5253;
 }
 
 .status2{
-	width: 500px;
+	width: 200px;
 	position:absolute;
 	top:33%;
 	right:4%;
